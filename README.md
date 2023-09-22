@@ -3,7 +3,7 @@
 ## Run a program
 
 ```sh
-deno run main.ts
+deno run src/main.ts
 ```
 
 ## Run a task
